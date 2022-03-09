@@ -1,0 +1,23 @@
+{
+  "name": "private_backpack",
+  "version": "1.0.0",
+  "description": "Private file server backend",
+  "main": "backpack.js",
+  "scripts": {
+    "test": "nodemon backpack.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Skhoooler/private_backpack.git"
+  },
+  "keywords": [
+    "file",
+    "server"
+  ],
+  "author": "David Doria",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Skhoooler/private_backpack/issues"
+  },
+  "homepage": "https://github.com/Skhoooler/private_backpack#readme"
+}
